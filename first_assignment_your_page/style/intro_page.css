@@ -1,0 +1,32 @@
+body{
+	background-image: url("images/back.png");
+	background-repeat: no-repeat, repeat;
+
+}
+h1{
+
+	text-align: left;
+	font-size: 300%;
+	display: inline;
+	width: 80%
+
+
+}
+h2{
+	color: darkblue;
+	text-align: center;
+	font-size: 200%;
+
+	
+}
+
+#navigat{
+	color: red;
+	text-align: center;
+}
+#link{
+	
+	display: inline;
+	
+
+}
